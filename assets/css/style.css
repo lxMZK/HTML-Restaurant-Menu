@@ -11,7 +11,8 @@ h2 {
     color: darkred;
 }
 
-h3, 
+h3,
+h4, 
 p,
 li {
     color: green;
@@ -83,4 +84,11 @@ td,
 th {
     border: 1px solid black;
     padding: 5px;
+}
+
+span {
+    color: yellow;
+    background-color: darkred;
+    display: block;
+    width: 100%;
 }
